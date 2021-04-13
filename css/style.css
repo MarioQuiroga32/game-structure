@@ -3,7 +3,7 @@
   height: 200px;
   font-family: "Press Start 2P";
   font-size: 30px;
-  background-image: url("/Users/Mario/Documents/IronHack/game-structure/img/New Project.jpg");
+  background-image: url("../img/New\ Project.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   overflow: auto;
